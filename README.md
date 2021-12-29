@@ -4,3 +4,7 @@ Problem 1:
 https://www.hackerrank.com/challenges/2d-array/problem  
 Solution 1:  
 `com.example.HourGlass2DArray`  
+Problem 2:  
+https://www.hackerrank.com/challenges/arrays-ds/problem  
+Solution 2:  
+`com.example.ReverseArray`  
