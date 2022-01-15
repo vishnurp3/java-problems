@@ -8,3 +8,7 @@ Problem 2:
 https://www.hackerrank.com/challenges/arrays-ds/problem  
 Solution 2:  
 `com.example.ReverseArray`  
+Problem 3:  
+https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem  
+Solution 3:  
+`com.example.LeftRotationArray` 
