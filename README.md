@@ -3,8 +3,7 @@
 Problem 1:  
 https://www.hackerrank.com/challenges/2d-array/problem  
 Solution 1:  
-[a relative link](src/com/example/HourGlass2DArray.java)  
-`com.example.HourGlass2DArray`  
+[`com.example.HourGlass2DArray`](src/com/example/HourGlass2DArray.java)    
 Problem 2:  
 https://www.hackerrank.com/challenges/arrays-ds/problem  
 Solution 2:  
