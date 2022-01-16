@@ -12,3 +12,7 @@ Problem 3:
 https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem  
 Solution 3:  
 `com.example.LeftRotationArray` 
+Problem 4:  
+https://www.hackerrank.com/challenges/new-year-chaos/problem  
+Solution 4:  
+`com.example.NewYearChaos` 
