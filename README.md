@@ -7,12 +7,12 @@ Solution 1:
 Problem 2:  
 https://www.hackerrank.com/challenges/arrays-ds/problem  
 Solution 2:  
-`com.example.ReverseArray`  
+[`com.example.ReverseArray`](src/com/example/ReverseArray.java)  
 Problem 3:  
 https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem  
-Solution 3:  
-`com.example.LeftRotationArray` 
+Solution 3: 
+[`com.example.LeftRotationArray`](src/com/example/LeftRotationArray.java)  
 Problem 4:  
 https://www.hackerrank.com/challenges/new-year-chaos/problem  
 Solution 4:  
-`com.example.NewYearChaos` 
+[`com.example.NewYearChaos`](src/com/example/NewYearChaos.java)
