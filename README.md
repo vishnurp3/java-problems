@@ -8,3 +8,5 @@ Problem 3:  https://www.hackerrank.com/challenges/ctci-array-left-rotation/probl
 Solution 3: [`com.example.LeftRotationArray`](src/com/example/LeftRotationArray.java)  
 Problem 4:  https://www.hackerrank.com/challenges/new-year-chaos/problem  
 Solution 4:  [`com.example.NewYearChaos`](src/com/example/NewYearChaos.java)
+Problem 5:  https://www.hackerrank.com/challenges/minimum-swaps-2/problem  
+Solution 5:  [`com.example.MinSwapArray`](src/com/example/MinSwapArray.java)
